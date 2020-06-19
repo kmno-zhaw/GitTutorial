@@ -1,2 +1,2 @@
-<h1>GitHub Tutorial</h1><br>
+<h1>GitHub Tutorial</h1>
 License: MIT
